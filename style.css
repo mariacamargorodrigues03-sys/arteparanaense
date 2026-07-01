@@ -1,1 +1,12 @@
-
+body{
+    background-color:rgb(0, 0, 107) ;
+}
+hearder{
+    background-color:rgb(250, 87, 114) ;
+}
+main{
+    background-color: rgb(13, 109, 109);
+}
+section{
+    background-color: rgb(90, 13, 13);
+}
