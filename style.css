@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color:#7D55A3
+    background-color:#7D55A3;
     color: white;
     text-align: center;
     padding: 30;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(0, 255, 200);
+    color: rgb(0, 38, 255);
 }
 
 p {
