@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(#F2CEDA);
-    color: rgb(#003875);
+    background-color: #003875;
+    color:#F2CEDA;
     font-family: Arial, sans-serif;
 }
 
 header {
-    background-color: rgb(250, 87, 114);
+    background-color:#7D55A3
     color: white;
     text-align: center;
     padding: 30;
