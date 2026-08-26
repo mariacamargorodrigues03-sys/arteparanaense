@@ -25,15 +25,15 @@ p {
     line-height: 1.6;
 }
 nav {
-    margin-tp:20px;
+    margin-top:20px;
 }
 nav a {
-    color: white
-    text-decoraion: none;
+    color: white;
+    text-decoration: none;
     background-color: #9b4d83;
     padding: 10px 15px;
-    boder-radiu: 8px;
-    margin: 5px
+    border-radius: 8px;
+    margin: 5px;
     display: inline-block;
 }
 
@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 main {
-    with: 80%;
+    width: 80%;
     margin: auto;
 }
 
@@ -54,7 +54,7 @@ section {
 }
 
 img{
-    with: 100%;
+    width: 100%;
     max-width: 600px;
     display: block;
     margin:block;
@@ -68,18 +68,18 @@ figcaption{
     margin:8px;
 }
 
-card {
+.card {
     background-color: #003875;
     padding: 15px;
     margin: 15px;
-    boder-lifet: 6px solid #6b2d5c;
-    boder-radius: 10px;
+    border-left: 6px solid #6b2d5c;
+    border-radius: 10px;
 }
-card h {
+.card h {
     margin-top:0;
 }
  footer {
-    bacgroun-color: #222222;
+    background-color: #222222;
     color: white;
     text-align: center;
     padding: 20px;
