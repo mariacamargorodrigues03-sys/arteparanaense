@@ -2,6 +2,7 @@ body {
     background-color: #003875;
     color:#F2CEDA;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 header {
@@ -16,10 +17,71 @@ h1 {
 }
 
 h2 {
-    color:#e70b0b ;
+    color:#ffffff ;
 }
 
 p {
     font-size: 18px;
     line-height: 1.6;
 }
+nav {
+    margin-tp:20px;
+}
+nav a {
+    color: white
+    text-decoraion: none;
+    background-color: #9b4d83;
+    padding: 10px 15px;
+    boder-radiu: 8px;
+    margin: 5px
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #c77dff;
+}
+
+main {
+    with: 80%;
+    margin: auto;
+}
+
+section {
+    background-color: #ffffff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+img{
+    with: 100%;
+    max-width: 600px;
+    display: block;
+    margin:block;
+    border-radius: 12px;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 14px;
+    color: #555555;
+    margin:8px;
+}
+
+card {
+    background-color: #003875;
+    padding: 15px;
+    margin: 15px;
+    boder-lifet: 6px solid #6b2d5c;
+    boder-radius: 10px;
+}
+card h {
+    margin-top:0;
+}
+ footer {
+    bacgroun-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+ }
