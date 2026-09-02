@@ -9,7 +9,7 @@ header {
     background-color:#7D55A3;
     color:white;
     text-align: center;
-    padding: 30;
+    padding: 30px;
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color:#000000 ;
+    color:#000000;
 }
 
 p {
@@ -57,7 +57,7 @@ img{
     width: 100%;
     max-width: 600px;
     display: block;
-    margin:block;
+    margin: auto;
     border-radius: 12px;
 }
 
@@ -71,11 +71,11 @@ figcaption{
 .card {
     background-color: #003875;
     padding: 15px;
-    margin: 15px;
+    margin: 15px 0;
     border-left: 6px solid #6b2d5c;
     border-radius: 10px;
 }
-.card h {
+.card h3 {
     margin-top:0;
 }
  footer {
