@@ -1,6 +1,11 @@
+: root{
+    --cor-fundo: #f4f1ea;
+--cor--texto: #222222;
+
+}
 body {
-    background-color: #003875;
-    color:#000000;
+    background-color: var(--cor-fundo);
+    color: var(--cor--texto);
     font-family: Arial, sans-serif;
     margin: 0;
 }
