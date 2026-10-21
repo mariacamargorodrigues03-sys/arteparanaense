@@ -1,4 +1,4 @@
-: root{
+:root{
     --cor-fundo: #f4f1ea;
 --cor--texto: #222222;
 
@@ -93,7 +93,7 @@ figcaption{
  button { 
     background-color:#160094;
     color:#f8f7f7;
-    bonder: none;
+    border: none;
     padding: 10px  15px;
     border-radius: 8px;
     cursor:pointer;
@@ -107,4 +107,17 @@ button:hover {
     display: block;
     width: fit-content;
     margin: 20px auto;
+}
+
+.galeria{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cards-curioidades{
+    display:fles;
+    gap: 20px;
+    flex-wrap: wrap;
 }
